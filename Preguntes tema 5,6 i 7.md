@@ -1,6 +1,9 @@
 ## TEMA 5  
 1.Quines són les fases del cicle econòmic?  
+
 ···Les fases són:  
+⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅  
+
 2.Defineix recessió.  
 3.Defineix punt mínim.  
 4.Defineix expansió.  
