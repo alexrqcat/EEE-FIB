@@ -1,7 +1,7 @@
 ## TEMA 6  
 ##### 1. Què s'intenta demostrar en el model de Keynes?
 
-_Keynes intenta demostrar que:_
+_Keynes intenta demostrar que:_   
 _1. La lley de Say no es compleix: l'economia pot estar en equilibri amb un elevat nivell d'atur._  
 _2. L'economía és altament inestable, la situació de **plena ocupació** és transitoria._  
 _3. L'estat té la capacitat i responsabilitat de controlar el DAg, a traves de la Política Fiscal: baixant els impostos i/o aumentant la despesa pública per solventar el problema de l'atur._  
@@ -12,15 +12,15 @@ _3. L'estat té la capacitat i responsabilitat de controlar el DAg, a traves de 
 
 ##### 3. Què és la propensió marginal al consum?   
 
-*La propensió marginal al consum (PMgC) és la part d'una nova renda diponible que està destinada al consum.   
+*La propensió marginal al consum (PMgC) és la part d'una nova renda diponible que està destinada al consum.*   
 
-Càlcul -> PmaC = dC/dRD = C*   
+*Càlcul -> PmaC = dC/dRD = C*   
 
 ##### 4. Què és la propensio marginal a l'estalvi?  
 
-*La propensió marginal a l'estalvi (PMgS) és la part d'una nova renda que està destinada a l'estalvi, quantes unitats aumenta l'estalvi si aumenta la renda.
+*La propensió marginal a l'estalvi (PMgS) és la part d'una nova renda que està destinada a l'estalvi, quantes unitats aumenta l'estalvi si aumenta la renda.*
 
-Càlcul -> PMgS = variacion del ahorro / variacion de la renta disponible.*
+*Càlcul -> PMgS = variacion del ahorro / variacion de la renta disponible.*
 
 ###### Tenim que PMgC + PMgS = 1     
 
