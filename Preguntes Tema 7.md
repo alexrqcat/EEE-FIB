@@ -52,20 +52,20 @@ M3: M2 + pasius del sistema bancari (OPB): valors negociables, participacions en
 
 ##### 13. Quines són les principals funcions del Banc d’Espanya?  
 
-*+ Definir i executar la política monetaria. Objectiu principal: estabilitat de preus.  
++ Definir i executar la política monetaria. Objectiu principal: estabilitat de preus.  
 + Executar la política de canvi de moneda, i mantenir i gestionar les reserves exeriors.  
 + Supervisar la solvencia i el comportament de les institucions de Crèdit.  
 + Contribuir al bon funcionament i estabilitat del sistema financer i de pagaments.   
 + Emetre i posar en circulació els bitllets i monedes en curs legal.  
 + Actuar com a tresorer i agent financer del govern.   
-+ Assessorar al govern i elaborar estudis en relació a les seves funcions.*      
++ Assessorar al govern i elaborar estudis en relació a les seves funcions.      
 
 ##### 14. Quines són les principals funcions del Sistema Europeu de Bancs Centrals (SEBC)?
 
-*+ Definir i executar la política monetaria a la UE. Objectiu principal: estabilitat de preus.  
++ Definir i executar la política monetaria a la UE. Objectiu principal: estabilitat de preus.  
 + Executar la política de canvi de moneda, i mantenir i gestionar les reserves oficials de divises dels estats membres del Eurosistema.  
 + Promover el buen funcionamiento del sistema de pagos.  
-+ Emitir los billetes de curso legal*        
++ Emitir los billetes de curso legal        
 
 ##### 15. Quins són els principals instruments de la Política Monetària?  
 
