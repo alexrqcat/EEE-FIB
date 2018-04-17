@@ -77,7 +77,7 @@ M3: M2 + pasius del sistema bancari (OPB): valors negociables, participacions en
 
 ##### 17. Què són les operacions de mercat obert (open market)?
 
-*Consisteixen en la compra o venda d'actius de garantía (renta fija negociable y otros activos, negociables y no negociables, que resultan de particular importancia para los mercados financieros) mediante repo, sols temporals (compra/venda con pacto de reventa/recompra) o sense repo, operacions fixes*   
+*Consisteixen en controlar la quantitat de diners en circulació: compra/venda de deuda pública*   
 
 ##### 18. En què consisteix la variació dels tipus d’interès?
 
@@ -85,16 +85,50 @@ M3: M2 + pasius del sistema bancari (OPB): valors negociables, participacions en
 
 ##### 19. Què són les Facilitats Permanents? Quins dos tipus hi ha?
 
-**   
+*Les facilitats permanents pretenen proporcionar i absorvir la liquidesa en 1 dia*  
++ Facilitat marginal de crédit.  
++ Facilitat de depòsit.     
 
-##### 20. Què és la Facilitat Marginal de Crèdit?  
+##### 20. Què és la Facilitat Marginal de Crèdit?
+
+*Els bancs poden obtenir liquidesa a 1 dia als bancs centrals nacionals, no hi ha limits al credit (s'han de presentar actius de garantia suficients). El "i" de la FMC representa normalment un màxim per el "i" del mercat a un dia.*      
+
 ##### 21. Què és la Facilitat de Dipòsit?  
+
+*Les entitats poden realitzar diposits a 1 dia als bancs centrals nacionals, no hi ha límits. El "i" de la FP representa normalment un mínim per el "i" del mercat a un dia*   
+
 ##### 22. Què és la trampa de la liquidesa?  
-##### 23. De què depèn el consum?  
+
+*La trampa de la liquidesa ens diu que si els tipus d'interés són ja molt baixos, per més que baixin, difícilment s'estimularà l'economia*   
+
+##### 23. De què depèn el consum?   
+
+*El consum depen de la renda i els preus*   
+
 ##### 24. De què depèn la inversió?  
+
+*La inversió depen dels ingressos, dels tipus d'interés + impostos i de les espectatives*   
+
 ##### 25. Instruments de les “facilitats permanents”.  
-##### 26. Si venc deute públic què estic fent: P.E. expansiva o restrictiva?  
-##### 27. Si recessió, què hem de fer segons monetaristes?  
-##### 28. Si inflació d’oferta?  
-##### 29. Si inflació Demanda segons Política Monetària?  
-##### 30. Venda de Deute Públic. Política Fiscal expansiva? O Política Monetària restrictiva?  
+
+*Les facilitats permanents són un instruments de política monetaria per si mateix, en tot cas, permeten ajustar els tipus d'interés mitjançant la venda i compra de credits a molt curt termini*   
+
+##### 26. Si venc deute públic què estic fent: P.E. expansiva o restrictiva?
+
+*Si venc deute públic estic fent una Política Monetaria restrictiva ja que redueixo la massa monetaria*   
+
+##### 27. Si recessió, què hem de fer segons monetaristes?
+
+*Segons els monetaristes, si recessió he d'aplicar una política monetaria expansiva, i aumentar la massa monetaria. Ho puc fer aumentant la quantitat de diners que circula (comprant deute públic), baixant el coeficient de caixa o baixant els tipus d'interés*
+
+##### 28. Si inflació d’oferta?
+
+*Si hi ha inflació d'oferta hem d'estimular aquesta oferta. Ho podem fer mitjançant la reducció de costos o aumentant la oferta des de l'estat: Reduir costos o salaris, privatitzar empreses, liberalitzar sectors econòmics, flexibilitzar el mercat laboral, fomentar I+D+I, crear un esdeveniment mundial, fomentar l'esperit empresarial...*   
+
+##### 29. Si inflació Demanda segons Política Monetària?   
+
+*Si hi ha inflació per demanda, segons els monetaristes s'ha d'aplicar una política monetaria restrictiva, reduint la quantitat de diners en circulació*   
+
+##### 30. Venda de Deute Públic. Política Fiscal expansiva? O Política Monetària restrictiva?
+
+*La venda de deute públic és un mecanisme de política monetària restrictiva.*   
