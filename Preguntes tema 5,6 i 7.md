@@ -1,5 +1,5 @@
 ## TEMA 5  
-1. Quines són les fases del cicle econòmic?  
+###### 1. Quines són les fases del cicle econòmic?  
 
 *Les fases són: Recessió (depressió) -> punt mínim (trough) -> expansió -> punt màxim (peak)*  
 
