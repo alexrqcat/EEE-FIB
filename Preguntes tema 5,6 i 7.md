@@ -1,12 +1,7 @@
 ## TEMA 5  
 1. Quines són les fases del cicle econòmic?  
 
-···Les fases són:  
-
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅  
+*Les fases són:*  
 
 2. Defineix recessió.  
 3. Defineix punt mínim.  
