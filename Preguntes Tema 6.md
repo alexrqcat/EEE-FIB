@@ -1,10 +1,10 @@
 ## TEMA 6  
 ##### 1. Què s'intenta demostrar en el model de Keynes?
 
-_Keynes intenta demostrar que:
-1. La lley de Say no es compleix: l'economia pot estar en equilibri amb un elevat nivell d'atur.  
-2. L'economía és altament inestable, la situació de **plena ocupació** és transitoria.  
-3. L'estat té la capacitat i responsabilitat de controlar el DAg, a traves de la Política Fiscal: baixant els impostos i/o aumentant la despesa pública per solventar el problema de l'atur._  
+_Keynes intenta demostrar que:_
+_1. La lley de Say no es compleix: l'economia pot estar en equilibri amb un elevat nivell d'atur._  
+_2. L'economía és altament inestable, la situació de **plena ocupació** és transitoria._  
+_3. L'estat té la capacitat i responsabilitat de controlar el DAg, a traves de la Política Fiscal: baixant els impostos i/o aumentant la despesa pública per solventar el problema de l'atur._  
 
 ##### 2. La oferta agregada keynesiana.  
 
