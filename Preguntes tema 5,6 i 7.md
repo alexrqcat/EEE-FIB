@@ -3,17 +3,22 @@
 
 ···Les fases són:  
 
+
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅  
+
 2. Defineix recessió.  
 3. Defineix punt mínim.  
 4. Defineix expansió.  
 5. Defineix punt màxim.  
-6.Què diu la Llei d'Okun?  
-7.Quina és la relació entre la recessió i els beneficis de les empreses?  
-8.Quina és la relació entre la recessió i els salaris moentaris?  
-9.Quina és la relació entre la recessió i la inflació?  
-10.Quina és la relació entre la recessió i la inversió?  
-11.Per què està composada la "Base monetaria"?  
-12.Què diu la Llei de Say?  
-13.Què és la Mà Invisible? En què falla?  
-14.Segons Keynes en què falla el capitalisme?  
-15.Solució clàssica a la Gran Depressió.  
+6. Què diu la Llei d'Okun?  
+7. Quina és la relació entre la recessió i els beneficis de les empreses?  
+8. Quina és la relació entre la recessió i els salaris moentaris?  
+9. Quina és la relació entre la recessió i la inflació?  
+10. Quina és la relació entre la recessió i la inversió?  
+11. Per què està composada la "Base monetaria"?  
+12. Què diu la Llei de Say?  
+13. Què és la Mà Invisible? En què falla?  
+14. Segons Keynes en què falla el capitalisme?  
+15. Solució clàssica a la Gran Depressió.  
